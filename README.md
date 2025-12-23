@@ -29,20 +29,6 @@
 - 插件支持: ikaros 本体只提供最为基础的功能，其它附加功能由插件提供
 - 客户端支持: 各个主流平台的客户端，包括不限于 Windows, 安卓
 
-# demo
-
-<https://demo.ikaros.run/console/>
-
-用户名: demo
-密码: demo
-
-
-## 视频
-
-- 功能预览视频: <https://www.bilibili.com/video/BV1Uw411B7o6/>
-- 安装视频：<https://www.bilibili.com/video/BV1zr4y1R7aQ/>
-- 最新日志介绍：<https://www.bilibili.com/video/BV1Sw411n73j/>
-
 # 文档
 
 更多内容请看：<https://docs.ikaros.run/>
